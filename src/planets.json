@@ -1,0 +1,56 @@
+[
+  {
+    "name": "MERCURY",
+    "mass": 3.3000000000000004e+24,
+    "velocity": 47400,
+    "distance": 57900000000
+  },
+  {
+    "name": "VENUS",
+    "mass": 4.8700000000000005e+25,
+    "velocity": 35000,
+    "distance": 108200000000
+  },
+  {
+    "name": "EARTH",
+    "mass": 5.9700000000000005e+25,
+    "velocity": 29800,
+    "distance":149600000000
+  },
+  {
+    "name": "MARS",
+    "mass": 6.420000000000001e+24,
+    "velocity": 24100,
+    "distance": 227900000000
+  },
+  {
+    "name": "JUPITER",
+    "mass": 1.8980000000000002e+28,
+    "velocity": 13100,
+    "distance": 778600000000
+  },
+  {
+    "name": "SATURN",
+    "mass": 5.680000000000001e+27,
+    "velocity": 9700,
+    "distance": 1433500000000
+  },
+  {
+    "name": "URANUS",
+    "mass": 8.68e+26,
+    "velocity": 6800,
+    "distance": 2872500000000
+  },
+  {
+    "name": "NEPTUNE",
+    "mass": 1.0200000000000001e+27,
+    "velocity": 5400,
+    "distance": 4495100000000
+  },
+  {
+    "name": "PLUTO",
+    "mass": 1.4600000000000001e+23,
+    "velocity": 4700,
+    "distance": 5906400000000
+  }
+]
