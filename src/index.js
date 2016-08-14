@@ -149,5 +149,4 @@ var draw = {
 };
 
 draw.init();
-draw.tick();
 draw.run();
